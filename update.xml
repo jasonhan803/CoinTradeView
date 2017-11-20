@@ -9,10 +9,10 @@
   <PromptUserBeforeAutomaticUpgrade>true</PromptUserBeforeAutomaticUpgrade>
   <AutoCloseSucceedWindow>true</AutoCloseSucceedWindow>
   <Package>5CCC4B2E6874D16D728192EF71F819DC.zip</Package>
-  <MD5>050F5F936EE53A5044854EED2844710B</MD5>
+  <MD5>980D987F00DC12DE7D52775FD5473074</MD5>
   <DeleteMethod>None</DeleteMethod>
   <RequiredMinVersion>1.0.0.0</RequiredMinVersion>
-  <PackageSize>6276</PackageSize>
+  <PackageSize>481176</PackageSize>
   <PackagePassword>zx102030</PackagePassword>
   <ForceUpdate>true</ForceUpdate>
   <Packages>
@@ -20,12 +20,12 @@
       <FilePath>CoinTradeView.exe</FilePath>
       <FileSize>7680</FileSize>
       <Version>1.0.0.0</Version>
-      <PackageHash>E8C353C24699E5FB9C0193658CC0B6DC</PackageHash>
+      <PackageHash>CC7CB8420BFB32BD754235175AE250DF</PackageHash>
       <PackageName>B1C332B28BAC50C10783AEBC1E2AEBFA.zip</PackageName>
-      <PackageSize>3310</PackageSize>
-      <Method>VersionCompare</Method>
+      <PackageSize>3439</PackageSize>
+      <Method>Always VersionCompare</Method>
       <VerificationLevel>Size Hash</VerificationLevel>
-      <FileHash>5500C6243828E22A5F0C4F64798E85DF</FileHash>
+      <FileHash>C0A0DDD433D052DBCF390C53A2B242DE</FileHash>
       <Files>
         <string>CoinTradeView.exe</string>
       </Files>
@@ -34,10 +34,10 @@
       <FilePath>CoinTradeView.exe.config</FilePath>
       <FileSize>189</FileSize>
       <Version>0.0.0.0</Version>
-      <PackageHash>E3004CACB25BA0520C211DFDAB427A18</PackageHash>
+      <PackageHash>29514CBEA3F1D16154E022049A863167</PackageHash>
       <PackageName>60E1B034C3FAA7B6A0EC96B7EE766623.zip</PackageName>
       <PackageSize>319</PackageSize>
-      <Method>VersionCompare</Method>
+      <Method>Always VersionCompare</Method>
       <VerificationLevel>Size Hash</VerificationLevel>
       <FileHash>DA0EED2F114F1288C8DE452D5B95596E</FileHash>
       <Files>
@@ -48,14 +48,84 @@
       <FilePath>CoinTradeView.pdb</FilePath>
       <FileSize>19968</FileSize>
       <Version>0.0.0.0</Version>
-      <PackageHash>8C28B047BA9B044C024055BDA9B4C004</PackageHash>
+      <PackageHash>510141C8BF79A6DBC0DD893CBCC33645</PackageHash>
       <PackageName>180324B1C66D4C70C5B319FDEF41EECD.zip</PackageName>
-      <PackageSize>2691</PackageSize>
-      <Method>VersionCompare</Method>
+      <PackageSize>2697</PackageSize>
+      <Method>Always VersionCompare</Method>
       <VerificationLevel>Size Hash</VerificationLevel>
-      <FileHash>E4EFB32DAD278C5693CC2B1E46CE9301</FileHash>
+      <FileHash>EFF706A0FC330951E9B7AD5E9C8EAFBD</FileHash>
       <Files>
         <string>CoinTradeView.pdb</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>SimpleUpdater.exe</FilePath>
+      <FileSize>488960</FileSize>
+      <Version>4.3.0.0</Version>
+      <PackageHash>17399E532B484DD85DAB3239E716393A</PackageHash>
+      <PackageName>E61140F2B63A64ED3513AA45EAA60825.zip</PackageName>
+      <PackageSize>175045</PackageSize>
+      <Method>Always VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>29C374F9A1E342438160503E67BC6CF3</FileHash>
+      <Files>
+        <string>SimpleUpdater.exe</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>SimpleUpdater.exe.config</FilePath>
+      <FileSize>199</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>EE5D5D380464A59A5E15B31FFD36C498</PackageHash>
+      <PackageName>2EE57098F6BB0A0585536B0965B7EF8D.zip</PackageName>
+      <PackageSize>296</PackageSize>
+      <Method>Always VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>D65685A8CDC06AFD8A04DBCF3CFAE613</FileHash>
+      <Files>
+        <string>SimpleUpdater.exe.config</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>SimpleUpdater.pdb</FilePath>
+      <FileSize>830976</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>75B509DD2F50E6F36DE99B627D3F720F</PackageHash>
+      <PackageName>592111C36F139BB2EEF987543F3CD286.zip</PackageName>
+      <PackageSize>214063</PackageSize>
+      <Method>Always VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>04B5B05DEFFEC2E6ADCD15337EF891F7</FileHash>
+      <Files>
+        <string>SimpleUpdater.pdb</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>SimpleUpdater.xml</FilePath>
+      <FileSize>502288</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>14FE032C4740F56B2FF50763D8183F3D</PackageHash>
+      <PackageName>41E0766AE1756E28D047A07384574E3F.zip</PackageName>
+      <PackageSize>61524</PackageSize>
+      <Method>Always VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>C15A393797DCFDFCC645A010BB5E2268</FileHash>
+      <Files>
+        <string>SimpleUpdater.xml</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>en\SimpleUpdater.resources.dll</FilePath>
+      <FileSize>70656</FileSize>
+      <Version>4.3.0.0</Version>
+      <PackageHash>FBE8F4013352073810F543C5CD7C3BE9</PackageHash>
+      <PackageName>57DBEBDA16AD1DAF490836EB02E0692C.zip</PackageName>
+      <PackageSize>23947</PackageSize>
+      <Method>Always VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>D56B55A2D1FFC68BEDA181BED5C614A7</FileHash>
+      <Files>
+        <string>en\SimpleUpdater.resources.dll</string>
       </Files>
     </PackageInfo>
   </Packages>
