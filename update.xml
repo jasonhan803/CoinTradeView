@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<UpdateInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AppName>CoinTradeView</AppName>
+  <AppVersion>1.0.0.0</AppVersion>
+  <PublishUrl>https://raw.githubusercontent.com/jasonhan803/CoinTradeView/master/</PublishUrl>
+  <FileExecuteBefore />
+  <ExecuteTimeout>0</ExecuteTimeout>
+  <TreatErrorAsNotUpdated>false</TreatErrorAsNotUpdated>
+  <PromptUserBeforeAutomaticUpgrade>true</PromptUserBeforeAutomaticUpgrade>
+  <AutoCloseSucceedWindow>true</AutoCloseSucceedWindow>
+  <Package>5CCC4B2E6874D16D728192EF71F819DC.zip</Package>
+  <MD5>050F5F936EE53A5044854EED2844710B</MD5>
+  <DeleteMethod>None</DeleteMethod>
+  <RequiredMinVersion>1.0.0.0</RequiredMinVersion>
+  <PackageSize>6276</PackageSize>
+  <PackagePassword>zx102030</PackagePassword>
+  <ForceUpdate>true</ForceUpdate>
+  <Packages>
+    <PackageInfo>
+      <FilePath>CoinTradeView.exe</FilePath>
+      <FileSize>7680</FileSize>
+      <Version>1.0.0.0</Version>
+      <PackageHash>E8C353C24699E5FB9C0193658CC0B6DC</PackageHash>
+      <PackageName>B1C332B28BAC50C10783AEBC1E2AEBFA.zip</PackageName>
+      <PackageSize>3310</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>5500C6243828E22A5F0C4F64798E85DF</FileHash>
+      <Files>
+        <string>CoinTradeView.exe</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>CoinTradeView.exe.config</FilePath>
+      <FileSize>189</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>E3004CACB25BA0520C211DFDAB427A18</PackageHash>
+      <PackageName>60E1B034C3FAA7B6A0EC96B7EE766623.zip</PackageName>
+      <PackageSize>319</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>DA0EED2F114F1288C8DE452D5B95596E</FileHash>
+      <Files>
+        <string>CoinTradeView.exe.config</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>CoinTradeView.pdb</FilePath>
+      <FileSize>19968</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>8C28B047BA9B044C024055BDA9B4C004</PackageHash>
+      <PackageName>180324B1C66D4C70C5B319FDEF41EECD.zip</PackageName>
+      <PackageSize>2691</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>E4EFB32DAD278C5693CC2B1E46CE9301</FileHash>
+      <Files>
+        <string>CoinTradeView.pdb</string>
+      </Files>
+    </PackageInfo>
+  </Packages>
+  <HideBeforeExecuteWindow>false</HideBeforeExecuteWindow>
+  <HideAfterExecuteWindow>false</HideAfterExecuteWindow>
+  <MustUpdate>true</MustUpdate>
+  <AutoExitCurrentProcess>true</AutoExitCurrentProcess>
+  <AutoEndProcessesWithinAppDir>true</AutoEndProcessesWithinAppDir>
+  <AutoKillProcesses>true</AutoKillProcesses>
+  <RequreAdminstrorPrivilege>false</RequreAdminstrorPrivilege>
+</UpdateInfo>
